@@ -1,10 +1,6 @@
 # ASP.NET Core Demo App
 
-<<<<<<< HEAD
 [![Build status](https://ci.appveyor.com/api/projects/status/p3iet9wrmg8jxlmx?svg=true)](https://ci.appveyor.com/project/jincod/aspnet5demoapp)
-=======
-[![Build status](https://ci.appveyor.com/api/projects/status/p3iet9wrmg8jxlmx?svg=true)](https://ci.appveyor.com/project/abelclopes/dotnet-core-2-app-hiroku)
->>>>>>> ffb00a958d46b112fe0ece55790312c48e42d390
 
 ## Usage
 
