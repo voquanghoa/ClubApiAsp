@@ -10,7 +10,7 @@ namespace AspNetCoreDemoApp.Controllers
 		[HttpGet]
 		public IEnumerable<string> Get()
 		{
-			return new[] { "value1", "value2", "Value3" };
+			return new[] { "value1", "value2", "Value3","Hello" };
 		}
 
 		// GET api/values/5
